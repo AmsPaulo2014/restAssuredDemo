@@ -7,7 +7,7 @@ public class testScript1 {
 	@Test
 	public void test001()
 	{
-		System.out.println("This is test script 12");
+		System.out.println("This is test script 123");
 	}
 
 }
